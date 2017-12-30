@@ -153,12 +153,8 @@ footer .information {
   height: 352px;
   width: 650px;
   z-index: 2;
-  pointer-events: none; }
-
-.map-overlay-large {
-  background-image: url("../image/map-overlay-large.png");
-  height: 400px;
-  width: 960px; }
+  pointer-events: none;
+}
 
 .padding {
   padding: 10px 20px; }
@@ -168,7 +164,22 @@ footer .information {
   height: 400px;
   width: 100%;
   z-index: 1;
-  margin: 20px 0px; }
+  margin: 20px 0px;
+  position: relative;
+  border: 10px solid #fff;
+}
+
+#map-large:after {
+  content: '';
+  pointer-events: none;
+  background-image: url("../images/map-overlay-large.png");
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  height: 420px;
+  width: 980px;
+  background-size: 980px 420px;
+}
 
 .rotator {
   position: relative;
