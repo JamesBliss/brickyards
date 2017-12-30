@@ -101,7 +101,10 @@ include $_SERVER['DOCUMENT_ROOT'] . "/include/header.php";
 			<div class="feature-inner">
 				<div class="centering padding">
 					<div id="map-large"></div>
+<<<<<<< HEAD
 					<div class="map-overlay map-overlay-large"></div>
+=======
+>>>>>>> 949120892075ea0dbedb5149ad296f6969ea05a2
 				</div>
 			</div>
 		</div>

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
   <footer>
+=======
+<footer>
+>>>>>>> 949120892075ea0dbedb5149ad296f6969ea05a2
     <div class="information">
       <address>
         Brickyards Boarding Kennels and Grooming Salon, Pembridge, Leominster, HR6 9HZ
@@ -15,7 +19,11 @@
   <!-- scripts concatenated and minified via build script -->
   <script src="resource/js/plugins.js"></script>
   <script src="resource/js/responsiveslides.js"></script>
+<<<<<<< HEAD
   <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+=======
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyBCzrZXYFM3hbYZ5-HkciSz93sNK87S_Dg&sensor=true"></script>
+>>>>>>> 949120892075ea0dbedb5149ad296f6969ea05a2
   <script type="text/javascript" src="resource/js/gmaps.js"></script>
   <script type="text/javascript" src="resource/js/menu.js"></script>
   <script type="text/javascript" src="resource/js/jquery.scrollTo-1.4.3.1.js"></script>
